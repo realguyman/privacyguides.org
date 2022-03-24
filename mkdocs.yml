@@ -26,6 +26,7 @@ nav:
     - 'Privacy Tools': 'tools.md'
     - 'Operating Systems':
       - 'Android': 'android.md'
+      - 'iOS': 'ios.md'
       - 'Linux Desktop': 'linux-desktop.md'
       - 'QubesOS': 'qubes.md'
       - 'Router Firmware': 'router.md'
