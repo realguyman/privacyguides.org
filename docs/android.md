@@ -382,6 +382,10 @@ To mitigate these problems, we recommend [Droid-ify](https://github.com/Iamlooke
     - [:fontawesome-brands-android: APK Download](https://android.izzysoft.de/repo/apk/com.looker.droidify)
     - [:fontawesome-brands-github: GitHub](https://github.com/Iamlooker/Droid-ify)
 
+### RSS Notifications on GitHub
+
+ Another option would be to install the APK directly the developers git repository releases page, and set up an RSS feed to get notified of updates. This is very simple on GitHub, where you can append ".atom" to the URL of the releases page and add it an RSS reader of your choice. You don't need to worry about slow updates that come from F-Droid or hope the developer has their own F-Droid repository.
+
 ## Security comparison of GrapheneOS and CalyxOS
 
 ### Profiles
